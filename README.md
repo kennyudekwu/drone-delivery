@@ -1,1 +1,1 @@
-Building drone delivery API demo project ongoing
+Building drone delivery API demo project ongoing currently
